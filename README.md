@@ -1,2 +1,2 @@
 # login-laravel-tailwind
-Login screen made in tailwindcss for laravel projects.
+Login screen made in tailwindcss for laravel 8.
